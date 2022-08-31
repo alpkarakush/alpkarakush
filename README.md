@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm <a href="https://alpkarakush.github.io/about" target="blank">
 Bekbolot</a></h1>
 <h3 align="center">Aspiring Machine Learning Engineer, currently studying at CTU in Prague</h3>
-
-<p align="left"> ![](https://komarev.com/ghpvc/?username=alpkarakush&color=blue)</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alpkarakush&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
 <p align="left"> <a href="https://twitter.com/alpkarakush" target="blank"><img src="https://img.shields.io/twitter/follow/alpkarakush?logo=twitter&style=for-the-badge" alt="alpkarakush" /></a> </p>
 
@@ -33,5 +32,3 @@ Bekbolot</a></h1>
       </div>
 
 </p>
-
-<!-- https://imgflip.com/gif/6rrfnn -->
