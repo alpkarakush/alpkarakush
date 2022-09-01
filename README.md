@@ -29,4 +29,8 @@ Bekbolot</a></h1>
 					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
       </div>
 
+My blogs:
+
+- <a href="https://bit.ly/3wKgW3A">How to Solve Time-Series Task for ML Internship with tsfresh? (Part 1)</a>
+
 </p>
