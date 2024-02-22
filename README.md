@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://alpkarakush.github.io/about" target="blank">
 Bekbolot</a></h1>
-<h3 align="center">Aspiring Machine Learning Engineer, currently studying at CTU in Prague</h3>
+<h3 align="center">Aspiring Machine Learning Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alpkarakush&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
 <p align="left"> <a href="https://twitter.com/alpkarakush" target="blank"><img src="https://img.shields.io/twitter/follow/alpkarakush?logo=twitter&style=for-the-badge" alt="alpkarakush" /></a> </p>
@@ -9,9 +9,9 @@ Bekbolot</a></h1>
   <img align="right" top="500" height="200px" width="400px" alt="GIF" src="https://i.imgflip.com/6rrfnn.gif">
 </a>
 
-- 🎓 I’m currently studying at <a href="https://fit.cvut.cz/en" target="blank">FIT CTU</a>
+- 🎓 Graduated <a href="https://fit.cvut.cz/en" target="blank">FIT CTU</a>
 
-- 🤝 I’m available for working remote or onsite in Prague. Feel free to reach out **bekbolot.kudayberdiev@gmail.com**
+- 🤝 I’m available for working remote or onsite in Bishkek. Feel free to reach out **bekbolot.kudayberdiev@gmail.com**
 
 - 📝 I sometimes write articles on [Medium](https://medium.com/@bekbolot)
 
